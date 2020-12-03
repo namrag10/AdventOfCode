@@ -12,6 +12,7 @@
 	}
 	
 	
+	
 	function track($right, $down, $map){
 		$trees = 0;
 		$x = $right;
